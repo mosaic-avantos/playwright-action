@@ -1,0 +1,6 @@
+# action.yml
+name: 'Avantos Playwright'
+description: 'Playwight image w/ make installed'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
